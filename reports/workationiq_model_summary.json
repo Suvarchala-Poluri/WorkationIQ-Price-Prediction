@@ -1,0 +1,11 @@
+{
+    "project_name": "WorkationIQ - Workation Price Prediction System",
+    "target_variable": "Per Person Price",
+    "training_rows": 21000,
+    "test_rows": 9000,
+    "number_of_features": 23,
+    "model_type": "CatBoostRegressor",
+    "prediction_file": "outputs/workationiq_predictions.csv",
+    "model_file": "models/workationiq_model.cbm",
+    "feature_file": "models/feature_columns.json"
+}

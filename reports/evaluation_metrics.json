@@ -1,0 +1,10 @@
+{
+    "project": "WorkationIQ",
+    "model": "CatBoostRegressor",
+    "validation_rows": 4200,
+    "feature_count": 23,
+    "MAE": 3343.899776419974,
+    "RMSE": 5918.974351296248,
+    "R2": 0.7621790097533989,
+    "MAPE_percent": 16.50310505013932
+}

@@ -1,0 +1,24 @@
+Feature,Importance
+Airline,19.567421423351114
+Destination,19.231854130987752
+Flight Stops,8.315628414526351
+Itinerary Nights,8.15183990688418
+Package Name,6.860953237588619
+Meals,5.897175711186108
+Places Text Length,5.593742416573382
+Sightseeing Text Length,5.5233946629347415
+Hotel Text Length,4.958724488408235
+Itinerary Length,4.491166527714242
+Package Type,4.126029233344503
+Package Name Length,2.900876178982984
+Travel Day,1.1432454991797323
+Start City,0.8240197683848948
+Travel Month,0.7809830631253725
+Cancellation Text Length,0.6329523201503909
+Travel Weekday,0.4785657272642323
+Sightseeing Commas,0.43853123035242714
+Travel Year,0.08289605906039896
+Itinerary Commas,0.0
+Itinerary Days,0.0
+Places Commas,0.0
+Hotel Rating,0.0
